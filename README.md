@@ -4,8 +4,6 @@
 
 ![常用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=Guxin12&layout=compact&theme=dark)
 
-![成就奖杯](https://github-profile-trophy.vercel.app/?username=Guxin12&theme=onedark)
-
 
 <!--
 **Guxin12/Guxin12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
