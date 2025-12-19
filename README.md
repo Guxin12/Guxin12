@@ -1,21 +1,13 @@
 ## Hi there 👋
 
-![嗨，你好啊！( ﹡ˆoˆ﹡ )](https://github-readme-stats.vercel.app/api?username=Guxin12&show_icons=true&theme=dark&rank_icon=github&include_all_commits=true&count_private=true)
+<div align="center">
 
-![常用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=Guxin12&layout=compact&theme=dark)
-
-
-<!--
-**Guxin12/Guxin12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://github-readme-stats.vercel.app/api?username=Guxin12&count_private=true&theme=tokyonight" height="150">
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guxin12&layout=compact&theme=tokyonight" height="150">
+<!-- Contribution Snake 动态图自适应主题 -->
+<picture>
+  <source srcset="https://raw.githubusercontent.com/Xiaomichael/Xiaomichael/output/github-contribution-grid-snake-dark.svg" media="(prefers-color-scheme: dark)">
+  <img src="https://raw.githubusercontent.com/Xiaomichael/Xiaomichael/output/github-contribution-grid-snake-white.svg" alt="Contribution Snake" />
+</picture>
+</div>
