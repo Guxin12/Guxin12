@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+![嗨，你好啊！( ﹡ˆoˆ﹡ )](https://github-readme-stats.vercel.app/api?username=Guxin12&show_icons=true&theme=dark&rank_icon=github&include_all_commits=true&count_private=true)
+
+![常用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=Guxin12&layout=compact&theme=dark)
+
+![成就奖杯](https://github-profile-trophy.vercel.app/?username=Guxin12&theme=onedark)
+
+
 <!--
 **Guxin12/Guxin12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
