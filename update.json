@@ -1,0 +1,7 @@
+{
+    version: 101,
+    minversion: 101,
+    must: 1,
+    update_msg: "2026 5月3日(\n1.修复部分bug\n2.添加广角\n3.可以爆改帧率)"
+    downloadlink: "暂时没有"
+}
