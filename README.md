@@ -27,7 +27,7 @@
 
 - 🐧 主要捣鼓 **Android 内核 / KernelSU / 刷机相关**
 - 🛠️ 喜欢自己写工具、改内核、做模块
-- 🌱 目前在玩：`C` · `Kotlin` · `Rust` · `Shell`
+- 🌱 正在学习：**C++**
 - 📍 时区：UTC+8
 
 ---
@@ -38,17 +38,17 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Guxin12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true" height="165" alt="GitHub Stats"/>
+        <img src="https://github-stats-extended.vercel.app/api?username=Guxin12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true" height="165" alt="GitHub Stats"/>
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guxin12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" height="165" alt="Top Languages"/>
+        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Guxin12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" height="165" alt="Top Languages"/>
       </td>
     </tr>
   </table>
 
   <br/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Guxin12&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=Guxin12&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -67,6 +67,7 @@
 
 ### 🛠️ 技术栈
 
+**主力 / 常用**
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
@@ -76,13 +77,11 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
----
-
-### 📈 贡献活跃度
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Guxin12&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" width="100%" alt="Activity Graph"/>
-</div>
+**正在学习 / 初级**
+<p align="center">
+  <img src="https://img.shields.io/badge/C%2B%2B-学习中-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/其他语言-初级-6e7681?style=for-the-badge"/>
+</p>
 
 ---
 
