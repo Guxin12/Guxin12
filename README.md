@@ -10,7 +10,6 @@
 
   <br/>
 
-  <!-- 社交 / 链接徽章 -->
   <a href="https://github.com/Guxin12">
     <img src="https://img.shields.io/badge/GitHub-Guxin12-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
@@ -27,29 +26,22 @@
 
 - 🐧 主要捣鼓 **Android 内核 / KernelSU / 刷机相关**
 - 🛠️ 喜欢自己写工具、改内核、做模块
-- 🌱 正在学习：**C++**
+- 🌱 所有语言目前都是 **初级**，正在学 **C++**
 - 📍 时区：UTC+8
 
 ---
 
 ### 📊 GitHub 数据一览
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-stats-extended.vercel.app/api?username=Guxin12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true" height="165" alt="GitHub Stats"/>
-      </td>
-      <td>
-        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Guxin12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" height="165" alt="Top Languages"/>
-      </td>
-    </tr>
-  </table>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Guxin12&theme=tokyonight" width="400" alt="GitHub Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Guxin12&theme=tokyonight" width="400" alt="Repos per Language"/>
+</p>
 
-  <br/>
-
-  <img src="https://streak-stats.demolab.com/?user=Guxin12&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak"/>
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Guxin12&theme=tokyonight" width="400" alt="Most Commit Language"/>
+  <img src="https://github-readme-streak-stats-xiaokang2022.vercel.app/?user=Guxin12&theme=tokyonight&hide_border=true" width="400" alt="GitHub Streak"/>
+</p>
 
 ---
 
@@ -65,22 +57,16 @@
 
 ---
 
-### 🛠️ 技术栈
+### 🛠️ 技术栈（全部初级）
 
-**主力 / 常用**
 <p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-</p>
-
-**正在学习 / 初级**
-<p align="center">
-  <img src="https://img.shields.io/badge/C%2B%2B-学习中-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/其他语言-初级-6e7681?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/C-初级-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-初级·学习中-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-初级-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Rust-初级-000000?style=for-the-badge&logo=rust&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Shell-初级-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android-初级-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-初级-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
 ---
