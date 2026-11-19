@@ -56,7 +56,7 @@
 
 | 项目 | 简介 | 语言 |
 |:---|:---|:---|
-| **[NANSU](https://github.com/Guxin12/NANSU)** | Kernel-based Android root 方案，包含 SukiSU KPM | Kotlin |
+| **[NanSU](https://github.com/Guxin12/NanSU)** | Kernel-based Android root 方案，包含 SukiSU KPM | Kotlin |
 | **[android_kernel_xiaomi_marble](https://github.com/Guxin12/android_kernel_xiaomi_marble)** | Melt Kernel（Redmi Note 12 Turbo / Poco F5） | C |
 | **[GitUP](https://github.com/Guxin12/GitUP)** | 用 Rust 写的 Git 辅助工具 | Rust |
 | **[BRENE_NEXT](https://github.com/Guxin12/BRENE_NEXT)** | SuSFS / KernelSU 模块 | Shell |
